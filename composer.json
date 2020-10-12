@@ -1,0 +1,8 @@
+{
+    "name": "tours/1.0",
+    "description": "Pagina de tours",
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "twbs/bootstrap": "4.5.2"
+    }
+}
